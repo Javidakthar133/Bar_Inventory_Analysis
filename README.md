@@ -50,5 +50,9 @@ The goal is to reduce stockouts and overstocking by forecasting alcohol demand a
 
 ---
 
+## 🏁 Next Steps
 
+- Automate weekly forecasting
+- Fine-tune models per bar/brand
+- Integrate real-time stock and supplier data
 
